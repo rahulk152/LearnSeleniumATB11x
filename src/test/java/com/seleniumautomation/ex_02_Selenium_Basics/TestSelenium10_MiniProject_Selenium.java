@@ -1,5 +1,6 @@
 package com.seleniumautomation.ex_02_Selenium_Basics;
 
+import com.seleniumautomation.CommonToAll;
 import io.qameta.allure.Description;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.edge.EdgeDriver;
