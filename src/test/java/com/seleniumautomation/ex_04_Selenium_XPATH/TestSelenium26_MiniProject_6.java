@@ -61,7 +61,7 @@ public class TestSelenium26_MiniProject_6 {
                 String data = driver.findElement(By.xpath(dyanmic_path)).getText();
                // System.out.println(data);
                 if (data.contains("Terminated")){
-                    String emp_status = dyanmic_path+"/following-sibling::td";
+                    String emp_status = dyanmic_path+"";
 //                    String country_text  = driver.findElement(By.xpath(country_path)).getText();
 //                    System.out.println("--------------");
 //                    System.out.println("Helen Bennett is In "+country_text);
