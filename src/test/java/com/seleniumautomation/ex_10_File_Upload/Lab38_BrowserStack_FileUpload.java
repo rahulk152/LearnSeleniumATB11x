@@ -1,4 +1,4 @@
-package com.seleniumautomation.ex_09_File_Upload;
+package com.seleniumautomation.ex_10_File_Upload;
 
 import com.seleniumautomation.CommonToAll;
 import org.openqa.selenium.By;

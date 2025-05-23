@@ -1,4 +1,4 @@
-package com.seleniumautomation.ex_06_SVGElements;
+package com.seleniumautomation.ex_09_SVGElements;
 
 import com.seleniumautomation.CommonToAll;
 import io.qameta.allure.Description;
